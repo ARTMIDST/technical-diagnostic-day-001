@@ -1,9 +1,0 @@
-# Python dependencies for this project
-# Update the versions as needed for your environment.
-
-Flask==3.0.3
-requests==2.32.3
-python-dotenv==1.0.1
-
-# Development tools
-pytest==8.3.2
